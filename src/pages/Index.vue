@@ -30,6 +30,7 @@ export default {
   background-color: #439709;
   text-decoration: none;
   padding: 0.5em;
+  border-radius: 30px;
 }
 
 .lien2{
@@ -48,6 +49,11 @@ export default {
   background-color: #E9F5E0;
   margin: auto;
   padding: 2em;
+  border-radius: 30px;
+}
+
+.content:hover{
+  background-color: antiquewhite;
 }
 
 .image{

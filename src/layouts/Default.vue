@@ -7,7 +7,7 @@
 
 <style>
 body {
-  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-family:Georgia, 'Times New Roman', Times, serif;
   margin:0;
   padding:0;
   line-height: 1.5;
@@ -22,6 +22,4 @@ body {
   padding-right: 20px;
   border-radius: 30px;
 }
-
-
 </style>
