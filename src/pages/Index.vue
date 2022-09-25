@@ -9,7 +9,7 @@
       </p>
       <p class="lien">
         <a href="https://github.com/Lelika02/appGridsome" target="_blank" rel="noopener">GitHub du projet</a>
-        <a href="https://tagatalelika.wixsite.com/site-latai" target="_blank" rel="noopener">Portfolio</a>
+        <a href="https://tagatalelika.wixsite.com/site-latai" target="_blank" rel="noopener" class="lien2">Portfolio</a>
       </p>
     </div>
     
@@ -25,12 +25,19 @@ export default {
 </script>
 
 <style>
-.lien a {
+.lien a{
   color: black;
   background-color: #439709;
   text-decoration: none;
   padding: 0.5em;
-  margin-left: 10em;
+}
+
+.lien2{
+  margin-left: 1em;
+}
+
+.lien {
+  margin-left: 15em;
 }
 
 .lien a:hover{
